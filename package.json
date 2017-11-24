@@ -1,0 +1,19 @@
+{
+  "name": "test-null-or-empty-baskar",
+  "version": "1.0.0",
+  "description": "Checks whether a given string is null or empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RithiBaskaran/test-null-or-empty-baskar.git"
+  },
+  "author": "baskar2271 <baskar@techvistara.com> (http://techvistara.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RithiBaskaran/test-null-or-empty-baskar/issues"
+  },
+  "homepage": "https://github.com/RithiBaskaran/test-null-or-empty-baskar#readme"
+}
